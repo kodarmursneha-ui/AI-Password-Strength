@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel AI",
+  "description": "An advanced password strength analyzer powered by Google Gemini. Get real-time feedback, crack time estimates, and actionable security suggestions.",
+  "requestFramePermissions": []
+}
